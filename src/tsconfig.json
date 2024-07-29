@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "lib": ["ESNext", "dom"],
+    "declaration": true,
+    "downlevelIteration": true,
+    "esModuleInterop": false,
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "noImplicitAny": true,
+    "outDir": "../dist",
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "types": ["./types"]
+  }
+}

@@ -1,5 +1,5 @@
-import { app } from './app';
+import { initApp } from "./app.js";
 
-app;
+initApp();
 
-console.log('hello world!');
+console.log("hello world!");
